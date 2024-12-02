@@ -1,0 +1,41 @@
+Course content to be completed by Dec31
+1)Live classes 22 --> 3 hours each
+2)Live resources 
+   i)9 weeks requires complete reading
+   ii)Interview questions 4 sections
+   iii)Contests 8
+
+3)Java fundamentals sections-basics, OOPS and advanced	
+ Basics
+   i)videos-63
+   ii)articles-57
+   iii)problems-63
+   iv)MCQ-90
+
+OOPS and advanced	
+  i)videos-50
+   ii)articles-31
+   iii)problems-8
+   iv)MCQ-40
+
+4)JAVA Collections(Huge content)
+ i)Streams and Lambda expressions
+1)Collection overview
+   i)videos-9
+   ii)articles-9
+   iii)MCQ-20
+2)Java lambda expressions
+  i)videos-3
+   ii)articles-3
+   iii)problems-3
+   iv)MCQ-10
+3)Java streams
+  i)videos-3
+   ii)articles-3
+   iii)problems-3
+   iv)MCQ-10
+
+5)Basics of javaend (least imp)
+
+6)Projects 2
+7)Contest 4
